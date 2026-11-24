@@ -1,8 +1,8 @@
 class Pier < Formula
   desc "Dock-Ersatz für macOS: Pille oder Leiste, Fenster-Vorschau, Gruppen, Launcher"
   homepage "https://github.com/W1nd-Surf3r19/Pier"
-  url "https://github.com/W1nd-Surf3r19/Pier/archive/refs/tags/v1.0.tar.gz"
-  sha256 "6d7c574ef5c902c34a0ef07c0569c9d34b766dfabb54268f44214e38fc58f056"
+  url "https://github.com/W1nd-Surf3r19/Pier/archive/refs/tags/v1.1.tar.gz"
+  sha256 "c54b4ea7a6ff3dcadba1b63d60e8e45aa9171f4f0742d9dd556ecad33e6471df"
   license "MIT"
 
   depends_on xcode: ["16.0", :build]
